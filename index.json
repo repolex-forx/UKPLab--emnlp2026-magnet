@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2026-magnet",
+  "versions": [
+    {
+      "commit": "4030e4e538f475a5fa23aed7c8439f6ac888103e",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:47:59.641305+00:00"
+    }
+  ]
+}
